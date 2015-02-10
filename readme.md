@@ -2,4 +2,4 @@ This is a simple script to create applications using flask. It's a WIP, so I int
 
 I created it to make my job easier and automate some stuff, so feel free to fork it, modify, use it, etc. Just don't try to sell it or I'll send you to Mordor to have a very close conversation with Sauron. ;D
 
-usage: python flaskafolding.py <project_name>
+usage: python flaskafolding.py "project_name"
